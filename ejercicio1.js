@@ -1,4 +1,4 @@
-//https://www.codewars.com/kata/55f4a44eb72a0fa91600001e
+//Ejercicio 1: https://www.codewars.com/kata/55f4a44eb72a0fa91600001e
 
 function createMessage(palabra) {
   let palabras = [palabra];
